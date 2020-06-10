@@ -4,6 +4,6 @@
 First install the debug driver softwware on a Windows PC. The application logo is a yellow gear
 
 Next, open the bus servo terminal application. You should get the following screen: 
-
+<img src="LX224 Bus Servo Software/images/hiwonder_bus_servo_terminal image.PNG" width="50%">
 
 
