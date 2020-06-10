@@ -2,5 +2,4 @@
 hobbes the biped explorer
 
 
-![GitHub Logo](/images/hobbes_front.jpg)
-Format: ![Alt Text](url)
+<img src="/images/hobbes_front.jpg" width="50%">
